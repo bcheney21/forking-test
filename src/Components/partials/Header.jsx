@@ -5,6 +5,7 @@ function Header() {
         <nav>   
             <Link to='/'>Home</Link>
             { " | " }
+            <Link to='/Gabe'>Gabe</Link>
         </nav>
     )
 }
